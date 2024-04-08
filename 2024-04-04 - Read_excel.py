@@ -2,8 +2,6 @@
 """
 Created on Thu Apr  4 16:32:42 2024
 
-@author: anderson
-
 Esse programa:  coleta SPEI de todos os anos da planilha,
                 executa os cálculos subsequentes p/ todos os anos.
 """
